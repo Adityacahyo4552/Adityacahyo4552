@@ -11,7 +11,7 @@
 <a href="https://fb.com/profile.php?id=100068200766036&sk=map" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100068200766036&sk=map" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya_chyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_chyo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/aditya cahyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aditya cahyo" height="30" width="40" /></a>
-<a href="https://discord.gg/Aditya Cahyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aditya Cahyo" height="30" width="40" /></a>
+<a href="https://discord.gg/AdityaCahyo#0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aditya Cahyo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
