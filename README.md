@@ -10,7 +10,7 @@
 <a href="https://twitter.com/aditya_cahyo123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_cahyo123" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100068200766036&sk=map" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100068200766036&sk=map" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya_chyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_chyo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aditya-cahyo-a15971279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="aditya cahyo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-cahyo-a15971279" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="aditya cahyo" height="30" width="40" /></a>
 <a href="https://discord.gg/AdityaCahyo#0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aditya Cahyo" height="30" width="40" /></a>
 </p>
 
